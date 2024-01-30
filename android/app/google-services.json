@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "417508042805",
+    "project_id": "learn-storage-e12a8",
+    "storage_bucket": "learn-storage-e12a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417508042805:android:76be171473c3af7537297c",
+        "android_client_info": {
+          "package_name": "com.pdp.learn_g9_storage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtn9yXscPDIocchfuO5Ck0GNmsp2j_nEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

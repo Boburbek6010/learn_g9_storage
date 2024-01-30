@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCTF0-9oAZxLqI-icwMaq4yHvdhgNdmOc8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>417508042805</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.pdp.learnG9Storage</string>
+	<key>PROJECT_ID</key>
+	<string>learn-storage-e12a8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>learn-storage-e12a8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:417508042805:ios:d9929bc28c50d6e337297c</string>
+</dict>
+</plist>
